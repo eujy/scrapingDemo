@@ -1,0 +1,6 @@
+framework module Pods_scrapingDemoTests {
+  umbrella header "Pods-scrapingDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
