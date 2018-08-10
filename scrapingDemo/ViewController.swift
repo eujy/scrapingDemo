@@ -11,10 +11,15 @@ import Alamofire
 import Kanna
 
 class ViewController: UIViewController {
+    
+    var Honbun = ["test"]
+    var count: Int = 0
 
     @IBOutlet weak var textView: UITextView!
     @IBAction func scrapingButton(_ sender: Any) {
         scrapeWebsite()
+        
+        print("heyhey")
     }
     
     
@@ -47,9 +52,12 @@ class ViewController: UIViewController {
             for link in doc.css("a, link") {
                 print(link.text as Any)
                 print(link["href"] as Any)
-                textView.text = link.text as String?
+                Honbun.append(link.text!)
+                Honbun.append(link["href"]!)
             }
         }
+        let str:String = Honbun.joined()
+        textView.text = str
     }
 
 
