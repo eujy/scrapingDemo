@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -84,9 +84,9 @@
 		01ECDA19B99E1B1BA885DFC0467416D5 /* Pods-scrapingDemoTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-scrapingDemoTests-umbrella.h"; sourceTree = "<group>"; };
 		03F54D4377324E5AB9E1412075A1B703 /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
 		08B8F9710C65E1A3104B845BC46890CB /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
-		0AED43DF07B5D991F115A5DECD53BA9A /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AED43DF07B5D991F115A5DECD53BA9A /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CE51ACFD988B911940AB216AF4B6056 /* Pods-scrapingDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-scrapingDemo-umbrella.h"; sourceTree = "<group>"; };
-		0E20518322FFB2F336BF96A823DF2BE6 /* Kanna.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Kanna.framework; path = Kanna.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E20518322FFB2F336BF96A823DF2BE6 /* Kanna.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Kanna.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1298497961D88C6CBF2D43678A97EE45 /* Pods-scrapingDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-scrapingDemo-resources.sh"; sourceTree = "<group>"; };
 		12F694DA352DB420D9A0B3DD25CE32AE /* Pods-scrapingDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-scrapingDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		1C21F67E3E425C80F337D4F2B496910C /* Pods-scrapingDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-scrapingDemoTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		2F52FF1CB5913B54B81837419934DFC6 /* Pods-scrapingDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-scrapingDemo-dummy.m"; sourceTree = "<group>"; };
 		31EBFA527A31F63D85EA9D470B0B4BFC /* Pods-scrapingDemoTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-scrapingDemoTests-frameworks.sh"; sourceTree = "<group>"; };
 		330E85E3ACB964B4780D611D550B5AC7 /* Deprecated.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Deprecated.swift; path = Sources/Kanna/Deprecated.swift; sourceTree = "<group>"; };
-		391A3FFDE6EFFFD0432A6D161923943C /* Pods_scrapingDemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_scrapingDemoUITests.framework; path = "Pods-scrapingDemoUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		391A3FFDE6EFFFD0432A6D161923943C /* Pods_scrapingDemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_scrapingDemoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		41D806834CE523D0AD6FE2DBF52A92B3 /* Kanna-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Kanna-prefix.pch"; sourceTree = "<group>"; };
 		4AFEDFAF796A67E9948D3AE3C3F3746D /* CSS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CSS.swift; path = Sources/Kanna/CSS.swift; sourceTree = "<group>"; };
 		4F0B8E0B622B30B12A628E1554FF01DA /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
@@ -118,8 +118,8 @@
 		7FA948B2D995A0C7DF87155F9EBA2C29 /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
 		801A518EC874347C64B619A3957D5EC4 /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
 		89DB703ACF9645E98AEB569E740138B2 /* Pods-scrapingDemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-scrapingDemoTests-dummy.m"; sourceTree = "<group>"; };
-		8EEB3C87F954EF90670D84C5DA3648D4 /* Pods_scrapingDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_scrapingDemo.framework; path = "Pods-scrapingDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8EEB3C87F954EF90670D84C5DA3648D4 /* Pods_scrapingDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_scrapingDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		987AC7587808D068F27B8D4B1F573A70 /* Pods-scrapingDemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-scrapingDemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9D604A4B46CB81CB7B853296CB0B18E4 /* Pods-scrapingDemoUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-scrapingDemoUITests-umbrella.h"; sourceTree = "<group>"; };
 		9E6083EA6165074FDF29180D45621774 /* Pods-scrapingDemoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-scrapingDemoTests.modulemap"; sourceTree = "<group>"; };
@@ -134,7 +134,7 @@
 		BA83C533B8DAFB8E39B8C452D87E5B21 /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
 		BBCF511DB4EFD0E314C6291AC58189FB /* Pods-scrapingDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-scrapingDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
 		BF0EE728CF9DB150D8B2D185B123C2AA /* libxmlHTMLDocument.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = libxmlHTMLDocument.swift; path = Sources/Kanna/libxmlHTMLDocument.swift; sourceTree = "<group>"; };
-		C31AFDDEA002436B46CF22DA7D90E20B /* Pods_scrapingDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_scrapingDemoTests.framework; path = "Pods-scrapingDemoTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C31AFDDEA002436B46CF22DA7D90E20B /* Pods_scrapingDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_scrapingDemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4436AAA73EA44F3EA48D31A4E172C4B /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
 		C5C9010D5973B08EE68ACDCDBA0BA385 /* Pods-scrapingDemoTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-scrapingDemoTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		CA8DE7077F573BD1CE152FC4C4EF7ECA /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
@@ -260,7 +260,6 @@
 				763083DC9F562114D6187B6FED7E9736 /* libxmlParserOption.swift */,
 				54315E946A823B48D8A0B115837DF7FA /* Support Files */,
 			);
-			name = Kanna;
 			path = Kanna;
 			sourceTree = "<group>";
 		};
@@ -353,7 +352,6 @@
 				C4436AAA73EA44F3EA48D31A4E172C4B /* Validation.swift */,
 				F2ACDF4C7CC472D607EFE4D75B8B3CDB /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -524,7 +522,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 0940;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -658,11 +656,7 @@
 				INFOPLIST_FILE = "Target Support Files/Kanna/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Kanna/Kanna.modulemap";
 				PRODUCT_MODULE_NAME = Kanna;
 				PRODUCT_NAME = Kanna;
@@ -759,11 +753,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemoTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemoTests/Pods-scrapingDemoTests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -798,11 +788,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemo/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemo/Pods-scrapingDemo.modulemap";
 				OTHER_LDFLAGS = "";
@@ -838,11 +824,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemoTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemoTests/Pods-scrapingDemoTests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -875,11 +857,7 @@
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
 				PRODUCT_MODULE_NAME = Alamofire;
 				PRODUCT_NAME = Alamofire;
@@ -913,11 +891,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemoUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemoUITests/Pods-scrapingDemoUITests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -987,6 +961,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -1009,11 +984,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemo/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemo/Pods-scrapingDemo.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1049,11 +1020,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-scrapingDemoUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-scrapingDemoUITests/Pods-scrapingDemoUITests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1087,11 +1054,7 @@
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Alamofire/Alamofire.modulemap";
 				PRODUCT_MODULE_NAME = Alamofire;
 				PRODUCT_NAME = Alamofire;
@@ -1123,11 +1086,7 @@
 				INFOPLIST_FILE = "Target Support Files/Kanna/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Kanna/Kanna.modulemap";
 				PRODUCT_MODULE_NAME = Kanna;
 				PRODUCT_NAME = Kanna;
