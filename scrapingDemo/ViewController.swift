@@ -52,7 +52,7 @@ class ViewController: UIViewController {
             for link in doc.css("a, link") {
                 print(link.text as Any)
                 print(link["href"] as Any)
-                Honbun.append(link.text!)
+                Honbun.append(link.text!+"\n")
                 Honbun.append(link["href"]!)
             }
         }
